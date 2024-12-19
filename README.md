@@ -1,0 +1,2 @@
+# Sheko
+Simple Facebook Bot 

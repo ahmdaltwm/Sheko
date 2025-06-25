@@ -3,7 +3,7 @@ module.exports = {
   alias: 'مساعدة',
   hidden: true,
   usage: 0,
-  owner: 'Link',
+  owner: 'STARK',
   version: '1.2',
   run: async (api, event, commands) => {
 
